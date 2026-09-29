@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="clab2/clab2.vcxproj" Id="f2441488-8b72-4905-b673-d5bbe46cb3b7" />
+</Solution>
